@@ -1,0 +1,16 @@
+.forms {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 400px;
+  text-align: center;
+}
+
+.contacts {
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  text-align: center;
+}
